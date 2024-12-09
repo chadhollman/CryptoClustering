@@ -1,2 +1,2 @@
 # CryptoClustering
-Unsupervised Machine Learning Model for Clustering Cryptocurrencies
+Unsupervised Machine Learning Exercise for Clustering Cryptocurrencies
